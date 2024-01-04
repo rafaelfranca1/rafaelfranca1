@@ -1,12 +1,12 @@
 # Olá 👋
 
 Seja bem-vindo ao meu perfil no GitHub! Eu sou Rafael França, estudande de Ciência da Computação na UFPB.
-
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelfranca1&theme=github_dark&show_icons=true&rank_icon=github&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfranca1&layout=compact&theme=github_dark&hide_border=true" />
 </div> 
-
+-->
 ## 🔧 Linguagens
 
 <div>
