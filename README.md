@@ -11,7 +11,8 @@ Seja bem-vindo ao meu perfil no GitHub! Eu sou Rafael França, estudande de Ciê
 
 <div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Linguagem C" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Linguagem Java" />
+          
 </div>
 
 ## 📫 Entre em contato
