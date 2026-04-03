@@ -27,7 +27,7 @@ Sou Rafael de França, estudante de Ciência da Computação com foco em engenha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-franca-ofc/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafaelfrncs/)
-[![Lattes](https://img.shields.io/badge/Lattes-FF4500.svg?logo=linkedin&logoColor=white)](http://lattes.cnpq.br/8170347684118664http://lattes.cnpq.br/8170347684118664) 
+[![Lattes](https://img.shields.io/badge/Lattes-FF4500.svg?logo=linkedin&logoColor=white)](http://lattes.cnpq.br/8170347684118664) 
 
 
 
